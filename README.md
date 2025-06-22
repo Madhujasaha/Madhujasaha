@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Madhuja Saha</h1>
 <h3 align="center">A Information Technology Student from Narula Institute Of Technology, Kolkata </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhujasaha&label=Profile%20views&color=0e75b6&style=flat" alt="Madhujasaha" /> </p>
 
