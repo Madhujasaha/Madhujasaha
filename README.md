@@ -27,9 +27,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhujasaha&show_icons=true&locale=en&layout=compact" alt="Madhujasah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhujasaha&show_icons=true&locale=en&layout=compact" alt="Madhujasaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhujasah&show_icons=true&locale=en" alt="Madhujasah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhujasaha&show_icons=true&locale=en" alt="Madhujasaha" /></p>
 
 
 <h3 align="center">My interests:</h3>
